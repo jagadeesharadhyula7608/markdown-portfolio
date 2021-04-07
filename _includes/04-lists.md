@@ -1,4 +1,6 @@
-item1 
-item2
-  item 2.1
-item3
+- item1 
+- item2
+      - item 2.1
+      - item 2.2
+- item 3
+- item 4
